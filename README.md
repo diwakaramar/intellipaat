@@ -1,3 +1,3 @@
 # intellipaat
 This is my first Repository
-author - AmarDiwakar
+author - Amar (Diwakaramar)
